@@ -1,0 +1,20 @@
+# Build e diretórios temporários
+bin/
+obj/
+*.exe
+*.dll
+
+# Arquivos do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e configurações locais
+*.log
+*.vspscc
+.vscode/
